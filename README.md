@@ -1,1 +1,3 @@
-# CS3518-Haskell
+# Fun With Haskell
+
+
